@@ -38,7 +38,3 @@ For a company like Grazioso Salvare, this dashboard could reduce the time spent 
 Use the course MongoDB environment with the `aac.animals` collection populated. Keep the notebook, CRUD module, and logo together. The application uses Python, PyMongo, pandas, NumPy, Matplotlib, Dash, JupyterDash, Plotly, and Dash Leaflet. See the Word README for the course setup and dashboard details.
 
 The portfolio notebook reads the connection credentials from the `AAC_MONGO_USERNAME` and `AAC_MONGO_PASSWORD` environment variables. Set these in your local environment before running the notebook. Notebook execution outputs have been cleared for publication. The credential configuration is the only application source change made for this portfolio copy.
-
-## AI use acknowledgment
-
-I used OpenAI ChatGPT to help organize and draft this portfolio reflection and prepare the repository files. The reflection describes the structure and purpose of my CS 340 project.
